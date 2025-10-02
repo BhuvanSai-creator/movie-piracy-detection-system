@@ -1,0 +1,27 @@
+# Python cache and compiled files
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Virtual environments
+venv/
+.env
+
+# IDEs
+.vscode/
+.idea/
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Data and models
+data/
+models/
+*.h5
+*.ckpt
+*.pth
+
+# Logs
+*.log
